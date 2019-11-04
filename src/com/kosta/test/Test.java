@@ -14,4 +14,8 @@ public class Test {
 	public void cc() {
 		System.out.println("zz");
 	}
+	
+	public void dd() {
+		
+	}
 }
