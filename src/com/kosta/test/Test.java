@@ -10,4 +10,8 @@ public class Test {
 	public void bb() {
 		System.out.println("왜 안올라가지?");
 	}
+	
+	public void cc() {
+		System.out.println("zz");
+	}
 }
