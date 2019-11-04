@@ -3,7 +3,8 @@ package com.kosta.test;
 public class Test {
 
 	public void aa() {
-		System.out.println("test 추가!");
+		System.out.println("테스트 테스트");
+		System.out.println();
 
 	}
 	
